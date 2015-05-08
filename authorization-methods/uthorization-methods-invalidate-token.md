@@ -1,12 +1,11 @@
 # Revoke token access
 
-
-
-
 **HTTP method**: POST /services/v1/oauth/token/invalidate
 
 **Client authorization**: No
+
 **User authorization**: No
+
 **TLS**: Yes
 
 
